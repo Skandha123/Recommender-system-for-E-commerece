@@ -1,6 +1,6 @@
 # Recommender-system-for-E-commerece
 
-# Ecommerce recommendation system design using Python on Amazon & Home Depot's dataset
+# Ecommerce recommendation system design Kaggle dataset
 
 
 
